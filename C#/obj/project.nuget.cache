@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HjMgsEHnjKhv3I2Wa1QGH15ex94Op03ndEFsk9j6TEUZj2WumBq16/Vxo+PIkLcFztx8myK2xvxHLGhxVDYo2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vivekgujari\\Desktop\\CodingJavaScriptAndCSharp\\CodingJavascriptAndCSharp\\C#\\C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vivekgujari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
